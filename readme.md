@@ -2,7 +2,7 @@
 
 By Prince Kr Paswan
 
-## [Link to the Rock Paper Scissor](https://video-player-player.netlify.app/)
+## [Link to the Rock Paper Scissor](https://game-prince.netlify.app/)
 
 
 ![Completed Website](./r1.png)
